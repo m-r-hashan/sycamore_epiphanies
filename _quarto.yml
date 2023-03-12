@@ -1,9 +1,11 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "sycamore_epiphanies"
   navbar:
+    background: primary
     left:
       - href: index.qmd
         text: Home
