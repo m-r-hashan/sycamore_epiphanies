@@ -18,6 +18,9 @@ about:
      - text: Instagram
        icon: instagram
        href: https://www.instagram.com/m_r_hashan/ 
+     - text: GitHub
+       icon: github
+       href: https://github.com/m-r-hashan
 ---
 
 Hello! I am really glad to see that somehow you landed here!
