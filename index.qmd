@@ -1,7 +1,27 @@
 ---
 title: "Mohammad Rashidul Hashan"
+image: rashidul.jpg 
+about: 
+   template: trestles
+   image-shape: round
+   image-width: 15em
+   links: 
+     - text: Twitter
+       icon: twitter
+       href: https://twitter.com/M_R_Hashan
+     - text: Gmail
+       icon: gmail
+       href: mailto:hasandmck66@gmail.com 
+     - text: Facebook
+       icon: facebook
+       href: https://www.facebook.com/mdrashidul.hasan.9/ 
+     - text: Instagram
+       icon: instagram
+       href: https://www.instagram.com/m_r_hashan/ 
 ---
 
-This is a Quarto website.
+Hello! I am really glad to see that somehow you landed here!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+---
+
+Welcome to hear the Sycamore Epiphanies!!

@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "sycamore_epiphanies"
+  title: "Mohammad Rashidul Hashan"
   navbar:
     background: primary
     left:
